@@ -8,4 +8,8 @@
 
 - If you don't make the ncode printable, then you will not be able to print it using print()
 - Most difficult part of OOP is creating your own methods
-- Whenever you create a "__str__" you should always create a "__repr__" as well. (Double underscores) 
+- Whenever you create a "__ str __" you should always create a "__ repr __" as well. (Double underscores) 
+
+### Definition of Keywords 
+
+Class: 
