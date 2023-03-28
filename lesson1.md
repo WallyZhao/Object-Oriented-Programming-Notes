@@ -16,4 +16,4 @@
 1. Class: The built in keyword in Python 3 that allows you to create classes. 
 	* Class names should always been capitalized 
 2. " __ init __ " is the **initalization method** that helps us with any intialization for the object's attributes. 
-3. 
+
