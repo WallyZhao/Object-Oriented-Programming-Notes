@@ -13,8 +13,4 @@
 ### Definition of Keywords 
 
 1. Class: The built in keyword in Python 3 that allows you to create classes. 
-
-''' 
-	class ClassName: # Class names should always be capitalized 
-		pass # An Empty Block
-'''
+	* Class names should always been capitalized 
