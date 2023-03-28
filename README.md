@@ -5,7 +5,7 @@ Notes for the OOP unit in Comp. Sci
 
 ### Important note 
 
-- **(self) is written after every method because it acts as a way to refer back to the method in each class (using.self)**
+- **(self) is written after every method because it acts as a way to refer back to the method in each class (using .self)**
 
 ### Other notes
 
