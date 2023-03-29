@@ -1,4 +1,4 @@
-# Lesson 3
+# Notes for Lesson 3
 
 ## Inheritance
 ### What is inheritance?
