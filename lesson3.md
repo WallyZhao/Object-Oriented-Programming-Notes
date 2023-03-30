@@ -14,3 +14,9 @@
 * Method that calls back to the Parent class that allows you to not use self
 
 ### Types of Inheritances
+* Single Inheritance: A subclass inheriting the features from a parent class 
+* Multiple Inheritance: A subclass inheriting the features from multiple different parent classes 
+* Mutlilevel Inheritance: A subclass that inherits from another subclass A --> B --> C --> ... 
+
+![visualization of inheritance](https://www.edureka.co/blog/wp-content/uploads/2017/07/Types-of-Inheritance.jpg)
+
