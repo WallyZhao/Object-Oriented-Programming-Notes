@@ -37,7 +37,7 @@ class Student:
 
 ## Polymorphism 
 ### What is Polymorphism?
-* A method that can be used across different classes and object that is depend on the parameters. 
+* A method that can be used across different classes and object that is dependent on the parameters. 
 
 _Poly_ --> Many
 
