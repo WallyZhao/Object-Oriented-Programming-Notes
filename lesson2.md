@@ -1,11 +1,12 @@
 # Notes for Lesson 2
 ## Base Function definitions
-
+* ```__repr__``` --> Allows you to present a printable version of the object
+* ```__str__``` --> Allows you to convert the object into a string 
 
 ## Encapsulation
 ### What is encapsulation?
 * Information hiding, encryption. Restricting access to classes/objects' attributes and methods. 
-  * In Python you use a special system to hide attributes and methods by using double underscores ```__``` as a prefix
+  * In Python you use a special system to hide attributes and methods by using double underscores ```__``` as a prefix (in front of the method)
   
 ```python
 class Student:
@@ -17,6 +18,13 @@ class Student:
   def __getStudentNumber(self):
     return self.__studentNumber
 ```
+## Setter and Getter methods 
+* *Setter* --> A method that allows you to "set" or mutate an attribute in the class
+* *Getter* --> A method that allows you to access an attribute in a given class 
+
+* [Mr. Park's example on Setter and Getter methods](https://replit.com/@mrparkonline/oop-encapsulation#main.py)
+
+
 ## Overrides 
 ### Overloading and Overriding 
 
@@ -62,7 +70,8 @@ makeSound(dogObj)
 ```
 ## Benefits of Override
 
-
+* Start to complete mathematical operations on custom objects 
+* **Comparing equality between custom Objects**
 
 
 
