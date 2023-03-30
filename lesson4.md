@@ -27,9 +27,9 @@ __next__()
 ### Encapsulation: Information hiding, restricting the access to the classes/objects' attributes 
 
 ### Inheritance: WHen an object or a class is based on another class that is already created
-  * Single - A parent class
-  * Multiple - Multiple parent classes 
-  * Multilevel - 
+  * Single - A child class inheriting from a parent class
+  * Multiple - A child class inheriting from multiple parent classes 
+  * Multilevel - Also known as multi-generational (subclass inheriting from another subclass) 
 
 ### Polymorphism: A method that can be used across different classes that is depend on the parameters 
 
@@ -39,6 +39,7 @@ __next__()
 
 You can have:
 
-  * Two differnet classes have the same attributes and methods 
-  * A child of a parent can have an **overrided** method where the child would use the method differently.
+  * Two different classes have the same attributes and methods 
+  * A child of a parent can have an **overrided** method where the child would use the method differently.\
+   
 
