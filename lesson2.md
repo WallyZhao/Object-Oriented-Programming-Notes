@@ -19,7 +19,7 @@ class Student:
     return self.__studentNumber
 ```
 ## Setter and Getter methods 
-* *Setter* --> A method that allows you to "set" or mutate an attribute in the class
+* *Setter* --> A method that allows you to "set" a value or mutate a set value in the class
 * *Getter* --> A method that allows you to access an attribute in a given class 
 
 * [Mr. Park's example on Setter and Getter methods](https://replit.com/@mrparkonline/oop-encapsulation#main.py)
