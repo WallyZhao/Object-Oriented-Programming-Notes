@@ -28,5 +28,5 @@
 ## How this ties in with Polymorphism:
 
 * Inheritance can inherit features from a parent class, other words methods that can be used in different classes.
-  * the idea to takey is that Different classes (non-inherited) can have the same named methods.
+  * the idea to take away is that Different classes (non-inherited) can have the same named methods.
   * Within in a set of inherited classes have the same methods. 
