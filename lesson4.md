@@ -26,12 +26,16 @@ __next__()
 
 ### Encapsulation: Information hiding, restricting the access to the classes/objects' attributes 
 
-### Inheritance: WHen an object or a class is based on another class that is already created
+#### Setter and Getter methods 
+* *Setter* --> A method that allows you to "set" or mutate an attribute in the class
+* *Getter* --> A method that allows you to access an attribute in a given class 
+
+### Inheritance: When an object or a class is based on another class that is already created
   * Single - A child class inheriting from a parent class
   * Multiple - A child class inheriting from multiple parent classes 
   * Multilevel - Also known as multi-generational (subclass inheriting from another subclass) 
 
-### Polymorphism: A method that can be used across different classes that is depend on the parameters 
+### Polymorphism: A method that can be used across different classes that is dependent on the parameters 
 
 *Poly* --> Many 
 
