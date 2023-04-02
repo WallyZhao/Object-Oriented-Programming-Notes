@@ -44,7 +44,7 @@ _Poly_ --> Many
 _Morphism_ --> Forms 
 ### Examples that utilize Polymorphism and Override are:
 * Two different classes having the same attributes and methods.
-* A child of aprent that has an overried method where the child would use the method differently. 
+* A child of parent that has an overried method where the child would use the method differently. 
 
 #### Example of two different classes with same attributes and methods
 ```python
